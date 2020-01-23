@@ -37,6 +37,7 @@ answer = "Unable to perform this operation"
   when 'subtract'
     answer = (number1 - number2).to_s
   when 'multiply'
+    answer = (number1 * number2).to_s
 end
 
 
