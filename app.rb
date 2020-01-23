@@ -38,6 +38,7 @@ answer = "Unable to perform this operation"
     answer = (number1 - number2).to_s
   when 'multiply'
     answer = (number1 * number2).to_s
+  when 'divide'
 end
 
 
