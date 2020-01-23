@@ -42,6 +42,7 @@ answer = "Unable to perform this operation"
     answer = (number1 / number2).to_s
   else
     answer
+  end
 end
 
 
