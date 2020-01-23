@@ -33,6 +33,7 @@ answer = "Unable to perform this operation"
 
   case params[:operation]
   when 'add'
+    answer = (number1 + number2).to_s
 end
 
 
